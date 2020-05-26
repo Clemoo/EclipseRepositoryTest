@@ -16,6 +16,8 @@ public class Test {
 			System.out.println(string);
 		}
 		
+		System.out.println(System.currentTimeMillis());
+		
 	}
 
 }
