@@ -17,7 +17,6 @@ public class Test {
 		}
 		
 		System.out.println(System.currentTimeMillis());
-		xd
 		
 	}
 
